@@ -1,3 +1,5 @@
+**Solution available in python, typescript and java**
+
 ![sensitive change detection](https://github.com/edwardabah29/trend_detection/assets/98519652/3d0c0214-0785-450a-9812-7dc7f62b3a0e)
 
 # Sensitive stock price change detection
